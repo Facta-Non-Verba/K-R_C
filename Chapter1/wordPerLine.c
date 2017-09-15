@@ -4,7 +4,7 @@
 #define OUT 0
 
 int main() {
-	int c, state = OUT;
+	int c, state = IN;
 
 
 	while ((c = getchar()) != EOF) {
